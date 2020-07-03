@@ -3052,7 +3052,7 @@ a {
   }
 }
 .cid-s3HGFlUYT7 {
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+  background-color: #000000;
 }
 .cid-s3HGFlUYT7 h3 {
   width: fit-content;
@@ -3100,7 +3100,7 @@ a {
   display: inline-block;
   opacity: 0.6;
   transition: all 0.25s;
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 .cid-s3HGFlUYT7 .mbr-media span:hover {
   opacity: 1;
@@ -3152,82 +3152,8 @@ a {
     height: 250px;
   }
 }
-.cid-s3HHuXNWeZ {
-  background-image: url("../../../assets/images/background117.jpg");
-}
-.cid-s3HHuXNWeZ .btn {
-  padding: 10px 15px 10px 15px;
-  font-weight: bold;
-}
-.cid-s3HHuXNWeZ .mbr-section-title {
-  letter-spacing: .1em;
-}
-.cid-s3HHuXNWeZ .icon-description {
-  padding-top: 1rem;
-  color: #ffffff;
-}
-.cid-s3HHuXNWeZ .mbr-media {
-  height: 70px;
-}
-.cid-s3HHuXNWeZ .mbr-media span {
-  font-size: 48px;
-  cursor: pointer;
-  border-radius: 50%;
-  width: 6rem;
-  height: 6rem;
-  line-height: 6rem;
-  position: relative;
-  display: inline-block;
-  transition: all 0.25s;
-  color: white;
-}
-.cid-s3HHuXNWeZ .mbr-media span:hover {
-  opacity: 0.7;
-}
-.cid-s3HHuXNWeZ .mbr-media span.mbri-play:before {
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translateX(-35%);
-  -moz-transform: translateX(-35%);
-  -ms-transform: translateX(-35%);
-  -o-transform: translateX(-35%);
-  transform: translateX(-35%);
-}
-.cid-s3HHuXNWeZ .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-}
-.cid-s3HHuXNWeZ .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
-}
-.cid-s3HHuXNWeZ .modalWindow .modalWindow-video {
-  height: 44.9943757vw;
-  width: 80vw;
-  margin: 0 auto;
-}
-.cid-s3HHuXNWeZ a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffffff;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
-}
-.cid-s3HHuXNWeZ a.close:hover {
-  color: #ffffff;
-}
-.cid-s3HHuXNWeZ .mbr-text,
-.cid-s3HHuXNWeZ .mbr-section-btn {
-  color: #efefef;
+.cid-s3HGFlUYT7 H1 {
+  color: #14cc9c;
 }
 .cid-s3HrfHvyag {
   padding-top: 75px;
@@ -7444,7 +7370,7 @@ a {
 .cid-s3HBfQymFx {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/background117.jpg");
+  background-image: url("../../../assets/images/background118.jpg");
 }
 .cid-s3HBfQymFx .card-wrapper {
   z-index: 3;
