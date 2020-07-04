@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,600,700,800,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap);
 
@@ -10,7 +10,7 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Comfortaa', display;
+  font-family: 'Raleway', sans-serif;
   font-size: 11rem;
 }
 .display-1 > .mbr-iconfont {
@@ -5023,9 +5023,9 @@ a {
   }
 }
 .cid-s3ELO2SauA {
-  padding-top: 180px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
+  padding-top: 210px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-6-1920x1280.jpg");
 }
 .cid-s3ELO2SauA h3 {
   line-height: 1;
@@ -5055,7 +5055,10 @@ a {
   margin-top: 150px;
   display: block;
   font-size: 3rem;
-  color: #000000;
+  color: #ffffff;
+}
+.cid-s3ELO2SauA H3 {
+  color: #ffffff;
 }
 .cid-s3EWimL2GF {
   padding-top: 165px;
@@ -7668,7 +7671,7 @@ a {
 .cid-s3HBfQymFx {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/background137.jpg");
+  background-image: url("../../../assets/images/background139.jpg");
 }
 .cid-s3HBfQymFx .card-wrapper {
   z-index: 3;
