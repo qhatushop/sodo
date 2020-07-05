@@ -1,1 +1,1 @@
-{"name":"SODO","short_name":"SODO","start_url":"/","display":"standalone","theme_color":"#149dcc","background_color":"#149dcc","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"SODO","short_name":"SODO","start_url":"/","display":"standalone","theme_color":"#000000","background_color":"#000000","icons":[{"src":"assets/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
