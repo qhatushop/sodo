@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,600,700,800,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,600,700,800,900&display=swap);
 
 
 
@@ -10,7 +10,7 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 12rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1024,52 +1024,16 @@ a {
     left: -1rem;
   }
 }
-.cid-s3wsgz2gQh {
-  padding-top: 225px;
-  padding-bottom: 225px;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-s3wsgz2gQh h1 {
-  background-color: transparent;
-  overflow: hidden;
-  display: inline-block;
-  color: transparent;
-  line-height: 1;
-}
-.cid-s3wsgz2gQh span {
-  background-image: url("../../../assets/images/mbr-1920x1271.jpeg");
-  background-size: 1920px 600px;
-  background-position: center;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  display: block;
-  animation: scroll 14s infinite linear;
-  pointer-events: none;
-}
-@keyframes scroll {
-  0% {
-    background-position-y: 0px;
-  }
-  99.999% {
-    background-position-y: -600px;
-  }
-  100% {
-    background-position-y: 0px;
-  }
-}
-.cid-s3wsgz2gQh .mbr-section-title {
-  color: #ffffff;
-}
 .cid-s3P0WFO5Uv {
   overflow-x: hidden !important;
 }
 .cid-s3P0WFO5Uv,
 .cid-s3P0WFO5Uv .scroll-wrapper {
-  padding-top: 225px;
+  padding-top: 180px;
   padding-bottom: 225px;
 }
 .cid-s3P0WFO5Uv .mbr-section-title {
-  color: #ffffff;
+  color: #b2ccd2;
 }
 .cid-s3P0WFO5Uv .mbr-section-title span {
   color: #ff2d55;
@@ -1088,8 +1052,8 @@ a {
   position: absolute;
   background-repeat: repeat;
   z-index: 0;
-  -webkit-animation-duration: 30s !important;
-  animation-duration: 30s;
+  -webkit-animation-duration: 21s !important;
+  animation-duration: 21s;
   background-image: url("../../../assets/images/background1-1920x1280.jpg");
   -webkit-animation: scroll-wrapper linear infinite;
   -moz-animation: scroll-wrapper linear infinite;
