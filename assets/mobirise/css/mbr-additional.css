@@ -1,6 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,600,700,800,900&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,600,700,800,900&display=swap);
 
 
 
@@ -10,7 +10,7 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Orbitron', sans-serif;
   font-size: 17rem;
 }
 .display-1 > .mbr-iconfont {
@@ -34,11 +34,11 @@ body {
 }
 .display-5 {
   font-family: 'Raleway', sans-serif;
-  font-size: 2.8rem;
+  font-size: 2.7rem;
   line-height: 1.4;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 4.48rem;
+  font-size: 4.32rem;
 }
 .display-7 {
   font-family: 'DM Sans', sans-serif;
@@ -69,7 +69,7 @@ body {
 }
 @media (max-width: 992px) {
   .display-5 {
-    font-size: 2.24rem;
+    font-size: 2.16rem;
   }
 }
 @media (max-width: 768px) {
@@ -89,9 +89,9 @@ body {
     line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 2.24rem;
-    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.16rem;
+    font-size: calc( 1.595rem + (2.7 - 1.595) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.595rem + (2.7 - 1.595) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1026,11 +1026,6 @@ a {
 }
 .cid-s3P0WFO5Uv {
   overflow-x: hidden !important;
-}
-.cid-s3P0WFO5Uv,
-.cid-s3P0WFO5Uv .scroll-wrapper {
-  padding-top: 135px;
-  padding-bottom: 225px;
 }
 .cid-s3P0WFO5Uv .mbr-section-title {
   color: #00b19d;
