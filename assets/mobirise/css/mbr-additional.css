@@ -2996,9 +2996,9 @@ a {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: 100%;
+  max-width: 50%;
   width: auto;
-  height: 800px;
+  height: 400px;
 }
 .cid-s3V1DSBOTG .carousel {
   display: flex;
