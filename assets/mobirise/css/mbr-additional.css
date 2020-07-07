@@ -2793,38 +2793,32 @@ a {
     left: -1rem;
   }
 }
-.cid-s3xbd4r3j9 {
-  background-image: url("../../../assets/images/banner-vogue-7-1920x1280.png");
-}
-.cid-s3xbd4r3j9 h1 {
-  background-color: transparent;
+.cid-s42hBLhnyl {
+  padding-top: 150px;
+  padding-bottom: 45px;
+  background-color: #000000;
   overflow: hidden;
-  display: inline-block;
-  color: transparent;
-  line-height: 1;
 }
-.cid-s3xbd4r3j9 span {
-  background-image: url("../../../assets/images/mbr-1920x1271.jpeg");
-  background-size: 1920px 600px;
-  background-position: center;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  display: block;
-  animation: scroll 14s infinite linear;
-  pointer-events: none;
+.cid-s42hBLhnyl svg {
+  position: absolute;
+  bottom: 6rem;
+  left: 50%;
+  transform: translate(-50%) scale(2, 1.6);
 }
-@keyframes scroll {
-  0% {
-    background-position-y: 0px;
-  }
-  99.999% {
-    background-position-y: -600px;
-  }
-  100% {
-    background-position-y: 0px;
+.cid-s42hBLhnyl #e2_shape {
+  fill: #ffffff !important;
+}
+.cid-s42hBLhnyl img {
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 0 10px 55px 5px rgba(26, 26, 26, 0.35);
+}
+@media (max-width: 576px) {
+  .cid-s42hBLhnyl img {
+    width: 90%!important;
   }
 }
-.cid-s3xbd4r3j9 .mbr-section-title {
+.cid-s42hBLhnyl H1 {
   color: #ffffff;
 }
 .cid-s3JivcOHkV {
@@ -3172,111 +3166,33 @@ a {
 .cid-s3Vrr9jhQU .mbr-section-btn {
   color: #efefef;
 }
-.cid-s3JOlfvHM5 {
-  padding-top: 180px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/background3.jpg");
+.cid-s42iK4Ll05 {
+  overflow: hidden !important;
+  background: linear-gradient(to right, #00b19d 0%, #00b19d 30%, #000000 30%, #000000 100%);
 }
-.cid-s3JOlfvHM5 .card-box {
-  z-index: 10;
-  position: relative;
+.cid-s42iK4Ll05 .animated-element {
+  color: #efefef;
 }
-.cid-s3JOlfvHM5 .container-fluid {
-  padding: 0;
+.cid-s42iK4Ll05 .img-block {
+  -webkit-align-self: center;
+  align-self: center;
 }
-.cid-s3JOlfvHM5 h5 {
-  margin: 0;
-}
-.cid-s3JOlfvHM5 h3 {
-  width: fit-content;
-  display: inline-block;
-  position: relative;
-}
-.cid-s3JOlfvHM5 h3:before {
-  position: absolute;
-  content: '';
-  left: 50%;
-  top: -120px;
-  bottom: 0;
-  width: 1px;
-  height: 100px;
-  background: currentColor;
-}
-.cid-s3JOlfvHM5 .card {
-  margin: auto;
-  min-height: 350px;
-  perspective: 800px;
-  cursor: pointer;
-}
-.cid-s3JOlfvHM5 .card:hover {
-  z-index: 99;
-}
-.cid-s3JOlfvHM5 .card-wrapper {
-  background-position: center;
-  padding: 1rem 1rem;
-  background-size: cover;
-  transition: all 0.3s;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
-  transform-origin: top;
-  position: relative;
-  overflow: hidden;
-}
-.cid-s3JOlfvHM5 .card-wrapper:hover {
-  transform: rotateX(20deg);
-}
-.cid-s3JOlfvHM5 .card-wrapper:hover:before {
-  transform: translateY(-10%);
-  opacity: 1;
-}
-.cid-s3JOlfvHM5 .card-wrapper:before {
-  content: "";
-  height: 100%;
-  width: 100%;
-  background: linear-gradient(190deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 90%);
-  clip-path: polygon(0 0, 100% 0, 100% 25%, 0 75%);
-  opacity: 0;
-  position: absolute;
-  transition: all 0.3s;
-  transform: translateY(-100%);
-}
-.cid-s3JOlfvHM5 .card1 {
-  background-image: url("../../../assets/images/v3-vogue-2000x2000.jpg");
-  z-index: 4;
-  transform: rotateY(15deg);
-}
-.cid-s3JOlfvHM5 .card2 {
-  background-image: url("../../../assets/images/v3-vogue-blanco-speaker-2000x2000.jpeg");
-  z-index: 3;
-}
-.cid-s3JOlfvHM5 .card3 {
-  background-image: url("../../../assets/images/v3-vogue-blanco-2000x2000.jpg");
-  z-index: 2;
-  transform: rotateY(-15deg);
-}
-.cid-s3JOlfvHM5 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-}
-.cid-s3JOlfvHM5 .btn {
-  margin: 0!important;
-  padding: 1rem 2rem;
-}
-@media (max-width: 767px) {
-  .cid-s3JOlfvHM5 .card-box {
-    text-align: center;
+@media (min-width: 992px) {
+  .cid-s42iK4Ll05 .img-block {
+    padding-right: 2rem;
   }
 }
-.cid-s3JOlfvHM5 .mbr-text {
+@media (max-width: 768px) {
+  .cid-s42iK4Ll05 {
+    background: #000000;
+  }
+}
+.cid-s42iK4Ll05 .mbr-section-subtitle {
   color: #cccccc;
 }
-.cid-s3JOlfvHM5 .card-date {
-  color: #cccccc;
-}
-.cid-s3JOlfvHM5 .card-title,
-.cid-s3JOlfvHM5 .card-box {
-  color: #5b686b;
+.cid-s42iK4Ll05 .mbr-text,
+.cid-s42iK4Ll05 .mbr-section-btn {
+  color: #efefef;
 }
 .cid-s3JiHwjSwK {
   padding-top: 90px;
@@ -6326,7 +6242,7 @@ a {
 }
 .cid-s3WmrWLRaI .shop-item-price,
 .cid-s3WmrWLRaI .price-block {
-  color: #149dcc;
+  color: #5b686b;
 }
 .cid-s3EX7MxuUQ {
   padding-top: 60px;
